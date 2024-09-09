@@ -30,5 +30,4 @@ The dataset includes variables like Gender, ClassYear, LarkOwl (sleep preference
 This analysis highlights various factors affecting college students' well-being, with gender differences in stress being a significant finding. Additionally, the relationships between mental health, sleep patterns, and academic performance provide valuable insights for future research and potential interventions to enhance student well-being.
 
 ## References
-- Data from the SleepStudy dataset (Lock5stat.com).
-- Additional context and support from course materials and statistical tools.
+- Data sourced from Lock5stat.com datasets.
